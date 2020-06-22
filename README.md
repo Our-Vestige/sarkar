@@ -10,8 +10,7 @@
        <h1>SARKAR</h1>
   </header>
   <h1>video</h1>
-  <video src="sarkar.mkv" width="500" controls>your browser does not support this<code>video</code>element.
-  </video><br>
+  <a href=""sarkar.mkv" width="500" controls>video</a>
  <a href="farzana.JPEG">
   <img src="farzana.JPEG" width="200" alt="image of farzana"/>
  </a><br>
